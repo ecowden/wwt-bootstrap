@@ -4,6 +4,6 @@
 
 ## Contents
 
-1. Twitter Bootstrap
-1. Font-Awesome
+1. Twitter Bootstrap v2.2.0
+1. Font-Awesome v3.0
 1. Any customizations
